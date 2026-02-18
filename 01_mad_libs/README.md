@@ -33,7 +33,7 @@ Enter an adjective: fluffy
 ...
 
 --- YOUR STORY ---
-Once upon a time, a fluffy banana exploded in the middle of Paris...
+Once upon a time, a fluffy banana exploded in the middle of Paris. The slimy mayor quickly danced over to investigate, but tripped on a mysterious sock and tumbled straight into the Seine. Witnesses said it was the most spectacular thing they had ever smelled.
 ```
 
 ---
