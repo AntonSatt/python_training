@@ -47,6 +47,7 @@ Multi-file projects, third-party tools, or real-world integrations.
 |---|---------|------------|
 | 01 | [Web Scraper](./advanced/01_web_scraper/) | `BeautifulSoup`, HTML parsing, pagination |
 | 02 | [AI Chat CLI](./advanced/02_ai_chat/) | Anthropic API, streaming, conversation history |
+| 03 | [URL Shortener](./advanced/03_url_shortener/) | Flask, REST API, redirects |
 
 ---
 
